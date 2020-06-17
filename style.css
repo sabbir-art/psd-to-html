@@ -1,0 +1,115 @@
+body{
+    font-family: Georgia;
+}
+/***************navbar design area start heare***********/
+.logo-text{
+    font-size: 30px;
+}
+.main-menu{
+    background: #17a2b8;;
+}
+.menu-li a{
+    font-size: 20px;
+}
+.menu-li a:hover,.active {
+    background-color: #76c38f;
+    border-radius: 10px;
+}
+/************slider area start heare*****/
+.slider{
+    background: #000;
+}
+/******survice area design start heare******/
+.survice-card {
+   text-align:center;
+}
+.survice-card:hover {
+    background-color: #76c38f;
+    color:#fff;
+ }
+.survice-card h5 {
+    text-transform: uppercase;
+    color: #000;
+ }
+.survice-card img{
+    width: 120px;
+    height: 120px;
+    margin: auto;
+    margin-top: 14px;
+}
+
+.survice-area{
+    background: #660000;
+}
+.survice{
+    text-align: center;
+}
+.survice h2{
+    color: #fff;
+    background-color: #343a40;
+    display: inline;
+    border-radius: 5px;
+    padding: 5px;
+}
+/*******************last work card design area******************/
+.last-work-card{
+    background-color: #000;
+    border: 5px solid #fff;
+    border-radius:inherit;
+}
+.last-work-card:hover{
+    border: 5px solid #76c38f;
+    border-radius:inherit;
+}
+.latest-card-text{
+    color:#fff!important;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+/******************futer card area***********************/
+.futer-card{
+    background-color:transparent; 
+    border: none;
+    
+}
+.futer-card a{
+    text-decoration: none;
+    text-transform: capitalize;
+}
+.futer-card a:hover{
+   color: #76c38f;
+}
+.futer-card ul li{
+    color: #007bff;
+    list-style: disclosure-closed;
+    border-bottom: 2px solid #404040;
+}
+.futer-card h5{
+   color: #fff;
+   text-transform: capitalize;
+}
+.futer-card p{
+    color: #979797;
+}
+.form-background{
+    background-color: #222222;
+    border-radius: 10px;
+    border-color:transparent;
+}
+::placeholder{
+    text-transform: capitalize;
+}
+.btn-bg{
+    background-color: #76c38f;
+    border-radius: 10px;
+}
+/************************copy right area*********************/
+.copyright-area  {
+   text-align: center;
+   background-color: #2b2b2b;
+   border-top: 2px solid #000;
+}
+.copyright-area a {
+    color:#76c38f;
+}
